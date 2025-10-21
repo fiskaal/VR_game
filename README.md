@@ -1,2 +1,3 @@
-# VR_hra
+# VR_game
 
+VR_game\Assets\Scenes
