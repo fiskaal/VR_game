@@ -21,19 +21,19 @@ MonoBehaviour:
     m_Value: 0.8
   intensity:
     m_OverrideState: 1
-    m_Value: 5.77
+    m_Value: 3.36
   scatter:
     m_OverrideState: 1
-    m_Value: 0.4
+    m_Value: 0.355
   clamp:
     m_OverrideState: 1
-    m_Value: 65472
+    m_Value: 64962.37
   tint:
     m_OverrideState: 1
-    m_Value: {r: 0.5990566, g: 0.823329, b: 1, a: 1}
+    m_Value: {r: 0.6839622, g: 0.8605716, b: 1, a: 1}
   highQualityFiltering:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   downscale:
     m_OverrideState: 0
     m_Value: 0
@@ -41,11 +41,11 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 6
   dirtTexture:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {fileID: 0}
     dimension: 1
   dirtIntensity:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0
 --- !u!114 &-2779249098809486837
 MonoBehaviour:
@@ -62,19 +62,19 @@ MonoBehaviour:
   active: 1
   shadows:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 0.9346076, z: 0.9217389, w: -0.19801982}
+    m_Value: {x: 1, y: 0.9346076, z: 0.9217389, w: 0.0029851922}
   midtones:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 0.92970383, z: 0.9805354, w: 0.015232294}
+    m_Value: {x: 1, y: 0.92970383, z: 0.9805354, w: 0.0026694809}
   highlights:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 0.9261723, z: 0.9747418, w: -0.12185835}
+    m_Value: {x: 1, y: 0.9261723, z: 0.9747418, w: -0.087939516}
   shadowsStart:
     m_OverrideState: 1
     m_Value: 0
   shadowsEnd:
     m_OverrideState: 1
-    m_Value: 0.3
+    m_Value: 0.32
   highlightsStart:
     m_OverrideState: 1
     m_Value: 0.55
@@ -122,7 +122,7 @@ MonoBehaviour:
     m_Value: 0.426
   smoothness:
     m_OverrideState: 1
-    m_Value: 0.3
+    m_Value: 0.241
   rounded:
     m_OverrideState: 1
     m_Value: 0
@@ -141,10 +141,10 @@ MonoBehaviour:
   active: 1
   lift:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 0.96464825, z: 0.90958625, w: -0.002378824}
+    m_Value: {x: 1, y: 0.96464825, z: 0.90958625, w: -0.014941637}
   gamma:
     m_OverrideState: 1
-    m_Value: {x: 0.92516613, y: 0.9989733, z: 1, w: -0.14518647}
+    m_Value: {x: 0.92516613, y: 0.9989733, z: 1, w: 0.030692915}
   gain:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 0.8928825, z: 0.92883164, w: 0.07616147}
+    m_Value: {x: 1, y: 0.8928825, z: 0.92883164, w: 0.06359865}
